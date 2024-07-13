@@ -1,3 +1,5 @@
+![Preview](/assets/github_md_preview.png)
+
 # » Lorem Ipsum Site 
 ### Educational project. [ `HTML5` | `CSS` ]
 
